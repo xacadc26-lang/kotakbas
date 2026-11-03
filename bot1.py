@@ -5,7 +5,7 @@ import time
 
 # Твои рабочие ключи и токены
 TELEGRAM_TOKEN = '9119258418:AAEwFh4ppflR0gohuPoldHVKVDTSsxo40oc'
-DEEPSEEK_API_KEY = 'sk-488dcc5aa80d4c7ea7b291309d66265b'
+DEEPSEEK_API_KEY = 'sk-8133f27cd68d4a9b84b91950d7fb6666'
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
