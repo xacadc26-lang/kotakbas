@@ -4,7 +4,7 @@ import random
 import time
 
 # Твои рабочие ключи и токены
-TELEGRAM_TOKEN = '9243774295:AAFFkVPZYWRoqUDaJvECJY4dkN64E31InA4'
+TELEGRAM_TOKEN = '9119258418:AAEwFh4ppflR0gohuPoldHVKVDTSsxo40oc'
 DEEPSEEK_API_KEY = 'sk-488dcc5aa80d4c7ea7b291309d66265b'
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
